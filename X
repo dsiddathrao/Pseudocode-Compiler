@@ -1,0 +1,4 @@
+Integer i=0
+While (i++<5)
+Print i 
+end while
